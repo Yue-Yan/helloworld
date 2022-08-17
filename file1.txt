@@ -1,2 +1,3 @@
 file one
 add some lines to test
+哈哈哈哈，重新学习吧
