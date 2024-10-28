@@ -9,5 +9,9 @@ def func():
 def func2():
     pass
 
+
+def func3():
+    pass
+
 if __name__ == '__main__':
     func()
